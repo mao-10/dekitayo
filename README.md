@@ -1,4 +1,4 @@
-# 📚 Project Name
+# 📚 Dekitayo
 
 Dekitayo is a task management web app for parents and children. It provides a management system for parents that manages the habits of their child, shows the child's last location, and displays data. It also makes the tasks fun for the child, with a reward system and game board. 
 
@@ -56,7 +56,7 @@ This project was started from Yusuke Mori's great idea for habit building in chi
 
 ## Team Members
 - [Mao Christie -Full Stack Developer](https://www.linkedin.com/in/christiemao/)
-- [Yusuke Mori - Product Manager](https://www.linkedin.com/in/moriyusuke/)
+- [Yusuke Mori - Technical Program Manager](https://www.linkedin.com/in/moriyusuke/)
 - [Sam Stone - UI/UX Developer](https://www.linkedin.com/in/samantha-stone-659918208/)
 - [Asha Uchida - Project Manager](https://www.linkedin.com/in/ashamarina-uchida/)
 
