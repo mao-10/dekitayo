@@ -2,7 +2,8 @@
 
 Dekitayo is a task management web app for parents and children. It provides a management system for parents that manages the habits of their child, shows the child's last location, and displays data. It also makes the tasks fun for the child, with a reward system and game board. 
 
-_DROP SCREENSHOT HERE_
+![Screenshot of the landing page for Dekitayo](<img width="1440" alt="Screenshot 2023-12-04 at 11 32 39" src="https://github.com/mao-10/dekitayo/assets/122519426/898b1264-b1a5-41f8-b0d7-88c18d510a61">
+)
 
 <br>
 App home: www.dekitayo.me
