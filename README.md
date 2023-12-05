@@ -58,7 +58,7 @@ This project was started from Yusuke Mori's great idea for habit building in chi
 - [Mao Christie -Full Stack Developer](https://www.linkedin.com/in/christiemao/)
 - [Yusuke Mori - Technical Program Manager](https://www.linkedin.com/in/moriyusuke/)
 - [Sam Stone - UI/UX Developer](https://www.linkedin.com/in/samantha-stone-659918208/)
-- [Asha Uchida - Project Manager](https://www.linkedin.com/in/ashamarina-uchida/)
+- [Asha Uchida - Product Manager](https://www.linkedin.com/in/ashamarina-uchida/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
